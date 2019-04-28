@@ -1,0 +1,8 @@
+html,body{height:100%;}
+body{display: flex;flex-direction: column;}
+table{background: #bfbfbf;}
+table tr {height:0.81rem}
+table tr .td1{width:50%;} 
+table tr td{font-family:LiSu;;font-size: 0.4rem;font-weight: bold;}
+table tr td .tab{width:60%;height:2.1rem;background: #52cd51;margin-left: 0.8rem}
+table tr td span{float: right;font-family: LiSu}
